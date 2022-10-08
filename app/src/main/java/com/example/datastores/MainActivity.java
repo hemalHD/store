@@ -13,7 +13,7 @@ import com.example.datastores.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
     ActivityMainBinding binding;
-    public static String USERNAME="username";
+    public static String USERNAME="chetan";
     public static String PASSWORD="password";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
